@@ -1,0 +1,9 @@
+{
+    "name": "planted/test-dependencies",
+    "description": "PLANTED BUG 3: old dependency versions with known CVEs. Test only.",
+    "require": {
+        "guzzlehttp/guzzle": "6.5.0",
+        "symfony/http-kernel": "4.4.0",
+        "twig/twig": "1.35.0"
+    }
+}
